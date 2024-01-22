@@ -1,5 +1,5 @@
 # FoodmunchApp
-Foodmunch App allows the user to explore the menu and services offered by the Foodmunch restaurant.
+Foodmunch App allows the user to explore the menu and services offered by the Foodmunch app.
 
 Download the complete project and run the foodmunch.html file on any browser to view the project. <br />
 **foodmunch.html** file contains all HTML code. <br />
